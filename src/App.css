@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.container {
+  background: linear-gradient(to bottom right, #03588C 0%, #04BFBF 100%);
+  border-radius: 10px;
+  box-shadow: 10px 10px #bdbcbc;
+}
+
+.calc-wrapper {
+  width: 400px;
+  height: 500px;
+  margin-top: 35px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.row {
+  display: flex;
+  width: 100%;
+}
